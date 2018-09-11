@@ -8,4 +8,4 @@
 DNS対応するまで以下のURLで。  
 http://118.27.15.49/  
 
-![ホームページキャプチャ](https://github.com/MyPoZi/MyPofile2/blob/master/capture_home)
+![ホームページキャプチャ](https://github.com/MyPoZi/MyPofile2/blob/master/capture_home.PNG)
