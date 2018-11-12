@@ -3,6 +3,6 @@
 3日引きこもって作ったホームページ  
 
  
-http://mypozi.com/  
+http://mypozi.com/website2/index.html 
 
 ![ホームページキャプチャ](https://github.com/MyPoZi/MyPofile2/blob/master/capture_home.PNG)
